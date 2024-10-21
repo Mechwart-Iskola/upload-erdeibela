@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Erdei Béla
+osztály: 10C
